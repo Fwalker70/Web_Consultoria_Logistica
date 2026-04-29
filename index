@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Consultor Logística Chile | Federico Walker</title>
+
+<meta name="description" content="Consultor en logística y supply chain en Chile. Reducción de costos, optimización de inventarios y mejora operacional.">
+
+<style>
+
+body {
+    margin:0;
+    font-family: Arial, sans-serif;
+    color:#333;
+}
+
+/* HERO */
+.hero {
+    background-image: url('TU-IMAGEN-AQUI.jpg');
+    background-size: cover;
+    background-position: center;
+    color:white;
+    padding:100px 20px;
+    text-align:center;
+}
+
+.hero h1 {
+    font-size:40px;
+    margin-bottom:20px;
+}
+
+.hero p {
+    font-size:20px;
+}
+
+.btn {
+    background:#00a859;
+    color:white;
+    padding:15px 25px;
+    text-decoration:none;
+    border-radius:5px;
+    display:inline-block;
+    margin-top:20px;
+}
+
+/* SECCIONES */
+.section {
+    padding:60px 20px;
+    max-width:1000px;
+    margin:auto;
+}
+
+.section h2 {
+    text-align:center;
+    margin-bottom:40px;
+}
+
+/* SERVICIOS */
+.services {
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.service {
+    flex:1;
+    min-width:250px;
+    background:#f5f5f5;
+    padding:20px;
+    border-radius:10px;
+}
+
+/* DIFERENCIADOR */
+.highlight {
+    background:#0f2f25;
+    color:white;
+    text-align:center;
+}
+
+/* CONTACTO */
+.contact {
+    text-align:center;
+}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+    .hero h1 {
+        font-size:28px;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<section class="hero">
+    <h1>Ayudo a empresas a reducir costos logísticos y optimizar inventarios</h1>
+    <p>Más de 20 años de experiencia en supply chain, compras y operaciones</p>
+    <a class="btn" href="mailto:fwalker70@gmail.com">Solicitar diagnóstico gratuito</a>
+</section>
+
+<!-- SERVICIOS -->
+<section class="section">
+    <h2>Servicios</h2>
+
+    <div class="services">
+
+        <div class="service">
+            <h3>Reducción de costos logísticos</h3>
+            <p>Negociación con proveedores, optimización de fletes y eliminación de sobrecostos.</p>
+        </div>
+
+        <div class="service">
+            <h3>Optimización de inventarios</h3>
+            <p>Mejora de rotación, reducción de quiebres y sobrestock.</p>
+        </div>
+
+        <div class="service">
+            <h3>Orden y control operacional</h3>
+            <p>Procesos, KPIs y reporting para una mejor toma de decisiones.</p>
+        </div>
+
+    </div>
+</section>
+
+<!-- DIFERENCIADOR -->
+<section class="section highlight">
+    <h2>Mi enfoque</h2>
+    <p>
+    A diferencia de consultores teóricos, mi experiencia es práctica. 
+    He trabajado negociando fletes, optimizando inventarios y reduciendo costos en empresas reales.
+    </p>
+</section>
+
+<!-- EXPERIENCIA -->
+<section class="section">
+    <h2>Experiencia</h2>
+    <p>
+    Más de 20 años en supply chain, compras y finanzas en retail e importaciones.
+    Experiencia directa en negociación con proveedores logísticos y optimización de operaciones.
+    </p>
+</section>
+
+<!-- CONTACTO -->
+<section class="section contact">
+    <h2>Contacto</h2>
+    <p>Email: fwalker70@gmail.com</p>
+    <p>Teléfono: +56 9 75585910</p>
+    <p>LinkedIn: https://www.linkedin.com/in/federico-w-5376a92/</p>
+</section>
+
+</body>
+</html>
